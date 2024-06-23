@@ -1,0 +1,42 @@
+This folder: /media/daniella/B/git/danimesq/Entertainment/YT-TTK/Toy Life
+
+  File: ./Cover.png
+  Size: 959808    	Blocks: 1880       IO Block: 4096   regular file
+Device: 8,20	Inode: 127265      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-11-05 04:59:36.491132300 -0300
+Modify: 2023-11-05 02:34:27.108422200 -0300
+Change: 2023-11-05 04:57:30.075335100 -0300
+ Birth: -
+IPFS hash: QmWXxK2W45UkCue7Nca9irtLN1VvaHjDrLk9A7L1RpiQMc
+------------------------------
+  File: ./&DAO
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 129476      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-11-05 20:14:12.640791500 -0300
+Modify: 2023-08-13 16:04:28.830524200 -0300
+Change: 2023-11-05 20:14:12.636198900 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./&meta
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 129478      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-11-05 20:38:07.269027200 -0300
+Modify: 2023-11-05 20:38:04.626616200 -0300
+Change: 2023-11-05 20:38:04.626616200 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./Site(soon)
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 129475      Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-11-05 20:13:52.891768200 -0300
+Modify: 2023-11-05 20:13:40.643296900 -0300
+Change: 2023-11-05 20:13:52.869497500 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
