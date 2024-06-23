@@ -1,42 +1,97 @@
-This folder: /media/daniella/B/git/danimesq/Entertainment/YT-TTK/Toy Life
+This folder: /media/daniella/B/git/danimesq/Entertainment/YT-TTK/Toy Life/Sites/Site
 
-  File: ./Cover.png
-  Size: 959808    	Blocks: 1880       IO Block: 4096   regular file
-Device: 8,20	Inode: 127265      Links: 1
-Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2023-11-05 04:59:36.491132300 -0300
-Modify: 2023-11-05 02:34:27.108422200 -0300
-Change: 2023-11-05 04:57:30.075335100 -0300
- Birth: -
-IPFS hash: QmWXxK2W45UkCue7Nca9irtLN1VvaHjDrLk9A7L1RpiQMc
-------------------------------
-  File: ./&DAO
-  Size: 0         	Blocks: 0          IO Block: 4096   directory
-Device: 8,20	Inode: 129476      Links: 1
-Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2023-11-05 20:14:12.640791500 -0300
-Modify: 2023-08-13 16:04:28.830524200 -0300
-Change: 2023-11-05 20:14:12.636198900 -0300
- Birth: -
-IPFS hash: 
-------------------------------
-  File: ./&meta
+folderstamp version: r5
+Method: Non-recursive
+Current Git Branch: main
+First Git Remote: origin - URL: https://github.com/danimesq/toylife.danimesq.com.git
+
+  File: ./css
   Size: 4096      	Blocks: 8          IO Block: 4096   directory
-Device: 8,20	Inode: 129478      Links: 1
-Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2023-11-05 20:38:07.269027200 -0300
-Modify: 2023-11-05 20:38:04.626616200 -0300
-Change: 2023-11-05 20:38:04.626616200 -0300
- Birth: -
+Device: 8,52	Inode: 2601693     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-06-06 12:20:48.853229900 -0300
+Modify: 2024-06-22 09:23:43.034928100 -0300
+Change: 2024-06-23 11:49:18.731124400 -0300
+ Birth: 2024-06-23 11:29:51.179089500 -0300
 IPFS hash: 
 ------------------------------
-  File: ./Site(soon)
+  File: ./fonts
   Size: 0         	Blocks: 0          IO Block: 4096   directory
-Device: 8,20	Inode: 129475      Links: 1
-Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
-Access: 2023-11-05 20:13:52.891768200 -0300
-Modify: 2023-11-05 20:13:40.643296900 -0300
-Change: 2023-11-05 20:13:52.869497500 -0300
- Birth: -
+Device: 8,52	Inode: 2427875     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-06-06 12:20:49.665697500 -0300
+Modify: 2021-10-18 11:55:53.173756000 -0300
+Change: 2024-06-23 11:49:18.735124100 -0300
+ Birth: 2024-06-23 11:29:51.303078400 -0300
+IPFS hash: 
+------------------------------
+  File: ./img
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,52	Inode: 177406      Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-06-22 00:32:12.260193800 -0300
+Modify: 2024-06-23 11:47:46.021873800 -0300
+Change: 2024-06-23 11:49:18.737123900 -0300
+ Birth: 2024-06-23 11:29:51.474063100 -0300
+IPFS hash: 
+------------------------------
+  File: ./index.html
+  Size: 10544     	Blocks: 24         IO Block: 4096   regular file
+Device: 8,52	Inode: 2679719     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-06-23 12:33:04.368459000 -0300
+Modify: 2024-06-23 12:32:54.108798300 -0300
+Change: 2024-06-23 12:32:54.949770500 -0300
+ Birth: 2024-06-23 12:32:54.083799100 -0300
+IPFS hash: QmZJiTLVrXJY4AUcMVRSNCgUqW6MdXhGmprL14DyMZFGRJ
+------------------------------
+  File: ./js
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,52	Inode: 4421775     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-06-06 12:20:48.962600800 -0300
+Modify: 2021-11-27 14:20:14.687425000 -0300
+Change: 2024-06-23 11:49:18.740123700 -0300
+ Birth: 2024-06-23 11:29:51.766037000 -0300
+IPFS hash: 
+------------------------------
+  File: ./logotype.png
+  Size: 21629     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,52	Inode: 2741567     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-06-23 12:46:05.889786000 -0300
+Modify: 2024-06-23 12:34:17.488042400 -0300
+Change: 2024-06-23 12:45:56.742681500 -0300
+ Birth: 2024-06-23 12:34:17.471043000 -0300
+IPFS hash: Qme2JUAk6RYgQJhyLU13DAWY9No4kWdddTz1kLBHA9u5Yq
+------------------------------
+  File: ./logotype.svg
+  Size: 16828     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,52	Inode: 114140      Links: 1
+Access: (0644/-rw-r--r--)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-06-23 12:46:06.625523200 -0300
+Modify: 2024-06-23 12:44:28.972612600 -0300
+Change: 2024-06-23 12:45:56.750665700 -0300
+ Birth: 2024-06-23 12:44:28.962610800 -0300
+IPFS hash: Qmdn9Xg84Z7f7vYzeFg9w5ygqCAJBzhexGkCtDr6NrZWHJ
+------------------------------
+  File: ./plugins
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,52	Inode: 114120      Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-06-06 12:20:49.743815700 -0300
+Modify: 2021-11-22 17:51:13.253906000 -0300
+Change: 2024-06-23 11:49:19.068097700 -0300
+ Birth: 2024-06-23 11:29:51.776036100 -0300
+IPFS hash: 
+------------------------------
+  File: ./press
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,52	Inode: 4457732     Links: 1
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-06-06 12:28:24.455127700 -0300
+Modify: 2024-06-23 11:47:28.788412300 -0300
+Change: 2024-06-23 11:49:19.071097500 -0300
+ Birth: 2024-06-23 11:29:52.198998300 -0300
 IPFS hash: 
 ------------------------------
