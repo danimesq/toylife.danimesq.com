@@ -9,14 +9,15 @@ Our <font color="#42E66C">Documentation</font> is located at <font color="#42E66
 <font color="#75D7EC">Tweet</font> us at <font color="#8BE9FD"><b>@nu_shell</b></font>
 
 It&apos;s been this long since <font color="#42E66C">Nushell</font>&apos;s first commit:
-5yr 1month 2wk 1day 1hr 28min 35sec 408ms 334µs 481ns
+5yr 1month 2wk 1day 23hr 37min 31sec 504ms 886µs 153ns
 
-in[<font color="#E4F34A">WARN</font>] - (starship::utils): Executing command &quot;/usr/bin/git&quot; timed out.
-[<font color="#E4F34A">WARN</font>] - (starship::utils): You can set command_timeout in your config to a higher value to allow longer-running commands to keep executing.
-Startup Time: 853ms 480µs 820ns
+Startup Time: 72ms 839µs 975ns
 
-<font color="#8BE9FD"><b>zoca</b></font> on <font color="#FF5555"><b> main</b></font> 
+<font color="#8BE9FD"><b>press/press-kit/img</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[✘!?]</b></font> 
 <font color="#50FA7B"><b>❯</b></font> <font color="#75D7EC">inkscape</font> <font color="#50FA7B"><b>logotype-plain_white.svg</b></font> <font color="#50FA7B"><b>-o</b></font> <font color="#50FA7B"><b>logotype-plain_white.png</b></font>
+
+<font color="#8BE9FD"><b>press/press-kit/img</b></font> on <font color="#FF5555"><b> main</b></font> <font color="#FF79C6"><b>[✘!?]</b></font> 
+<font color="#50FA7B"><b>❯</b></font> 
 
 
 

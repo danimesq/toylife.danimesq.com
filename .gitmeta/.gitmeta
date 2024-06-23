@@ -1,12 +1,12 @@
-commit QmW5F4uBUeqeMXVqRf4t6dYjGmFHHNFh3KXj11zQ6JcPYv
+commit QmVYwqhj6yBMVHXzArrtj67FkJGpwLkKVxUpiaddxEo2TY
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: 490e77ece3009cd3cabc95fdc992f39f351a10fe47171cbbc31da282ed0be1ca4b24e8eda3e79008b325240dc5f8a562e36f7e1de604b0ed9ff9de1e6d58b12900
+Signature: 045cd3a3a29883d6d9651dc757196b0bf052175937e4c95a9c8d95196fd960872040534d331f6c09055fe9e0171df89e33d4f5e2eb8abc27679eb0941660634c00
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmYTU7XgG5kTZopf7jFNdgEeUswGNQRKwJRNmiDio7cLz5
-Commit CID if containing only file hashes: QmXXFggCGp46gqnUgJMVSZEjXL5fbwqKNww4acT26pnrZi
+Commit CID if including git's SHA1: QmS9ZcN64cXBeNJtibUnYbSn4bjgnFx2u5ys6tEHmUpBvC
+Commit CID if containing only file hashes: Qmeoruqk6wPjAbeGJ9afHc6MV828UVm2Wh8YrEpVaaBhRe
 
 ------------------------------
 
@@ -17,23 +17,51 @@ Remote URL: https://github.com/danimesq/toylife.danimesq.com.git
 
 ------------------------------
 
-chown -h 1000:1000 '.folderstamp1'
-chmod 0664 '.folderstamp1'
-/usr/bin/touch -hcmd "2024-06-23 12:46:24.5215121000 -0300" '.folderstamp1'
-/usr/bin/touch -hcad "2024-06-23 12:52:07.0841275000 -0300" '.folderstamp1'
-chown -h 1000:1000 'logotype (another copy).svg'
-chmod 0644 'logotype (another copy).svg'
-/usr/bin/touch -hcmd "2024-06-23 12:51:18.5577971000 -0300" 'logotype (another copy).svg'
-/usr/bin/touch -hcad "2024-06-23 12:51:21.4457722000 -0300" 'logotype (another copy).svg'
-chown -h 1000:1000 'logotype (copy).svg'
-chmod 0644 'logotype (copy).svg'
-/usr/bin/touch -hcmd "2024-06-23 12:50:54.9594562000 -0300" 'logotype (copy).svg'
-/usr/bin/touch -hcad "2024-06-23 12:50:57.4427948000 -0300" 'logotype (copy).svg'
+chown -h 1000:1000 'css/page-custom.css'
+chmod 0755 'css/page-custom.css'
+/usr/bin/touch -hcmd "2024-06-23 13:39:43.4335552000 -0300" 'css/page-custom.css'
+/usr/bin/touch -hcad "2024-06-23 13:39:45.3314892000 -0300" 'css/page-custom.css'
+chown -h 1000:1000 'index.html'
+chmod 0664 'index.html'
+/usr/bin/touch -hcmd "2024-06-23 14:31:44.6274575000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-06-23 14:31:49.1624402000 -0300" 'index.html'
 chown -h 1000:1000 'logotype.png'
-chmod 0755 'logotype.png'
-/usr/bin/touch -hcmd "2024-06-23 12:34:17.4880424000 -0300" 'logotype.png'
-/usr/bin/touch -hcad "2024-06-23 12:46:05.8897860000 -0300" 'logotype.png'
-chown -h 0:0 'logotype.svg'
-chmod 0644 'logotype.svg'
-/usr/bin/touch -hcmd "2024-06-23 12:44:28.9726126000 -0300" 'logotype.svg'
-/usr/bin/touch -hcad "2024-06-23 12:46:06.6255232000 -0300" 'logotype.svg'
+chmod 0664 'logotype.png'
+/usr/bin/touch -hcmd "2024-06-23 13:38:27.7225084000 -0300" 'logotype.png'
+/usr/bin/touch -hcad "2024-06-23 13:38:31.4553475000 -0300" 'logotype.png'
+chown -h 1000:1000 'logotype.png.log.html5'
+chmod 0664 'logotype.png.log.html5'
+/usr/bin/touch -hcmd "2024-06-23 13:38:32.5563004000 -0300" 'logotype.png.log.html5'
+/usr/bin/touch -hcad "2024-06-23 14:33:26.0891509000 -0300" 'logotype.png.log.html5'
+chown -h 1000:1000 'press/index.html'
+chmod 0755 'press/index.html'
+/usr/bin/touch -hcmd "2021-12-01 18:03:15.4196280000 -0300" 'press/index.html'
+/usr/bin/touch -hcad "2024-06-23 13:01:41.8959684000 -0300" 'press/index.html'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_black.png'
+chmod 0664 'press/press-kit/img/logotype-plain_black.png'
+/usr/bin/touch -hcmd "2024-06-23 13:36:15.4834543000 -0300" 'press/press-kit/img/logotype-plain_black.png'
+/usr/bin/touch -hcad "2024-06-23 13:36:18.5335191000 -0300" 'press/press-kit/img/logotype-plain_black.png'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_black.png.log.html5'
+chmod 0664 'press/press-kit/img/logotype-plain_black.png.log.html5'
+/usr/bin/touch -hcmd "2024-06-23 13:36:21.5865841000 -0300" 'press/press-kit/img/logotype-plain_black.png.log.html5'
+/usr/bin/touch -hcad "2024-06-23 14:33:26.0111511000 -0300" 'press/press-kit/img/logotype-plain_black.png.log.html5'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_black.svg'
+chmod 0644 'press/press-kit/img/logotype-plain_black.svg'
+/usr/bin/touch -hcmd "2024-06-23 12:50:54.9594562000 -0300" 'press/press-kit/img/logotype-plain_black.svg'
+/usr/bin/touch -hcad "2024-06-23 13:03:33.9746101000 -0300" 'press/press-kit/img/logotype-plain_black.svg'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_white.png'
+chmod 0664 'press/press-kit/img/logotype-plain_white.png'
+/usr/bin/touch -hcmd "2024-06-23 13:36:49.2901839000 -0300" 'press/press-kit/img/logotype-plain_white.png'
+/usr/bin/touch -hcad "2024-06-23 13:36:52.4512142000 -0300" 'press/press-kit/img/logotype-plain_white.png'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_white.png.log.html5'
+chmod 0664 'press/press-kit/img/logotype-plain_white.png.log.html5'
+/usr/bin/touch -hcmd "2024-06-23 13:36:55.7230322000 -0300" 'press/press-kit/img/logotype-plain_white.png.log.html5'
+/usr/bin/touch -hcad "2024-06-23 14:33:26.0861510000 -0300" 'press/press-kit/img/logotype-plain_white.png.log.html5'
+chown -h 1000:1000 'press/press-kit/img/logotype-plain_white.svg'
+chmod 0644 'press/press-kit/img/logotype-plain_white.svg'
+/usr/bin/touch -hcmd "2024-06-23 12:51:18.5577971000 -0300" 'press/press-kit/img/logotype-plain_white.svg'
+/usr/bin/touch -hcad "2024-06-23 13:03:36.2704050000 -0300" 'press/press-kit/img/logotype-plain_white.svg'
+chown -h 1000:1000 'press/press-kit/index.html'
+chmod 0755 'press/press-kit/index.html'
+/usr/bin/touch -hcmd "2024-06-23 13:40:40.5127254000 -0300" 'press/press-kit/index.html'
+/usr/bin/touch -hcad "2024-06-23 13:40:43.8126291000 -0300" 'press/press-kit/index.html'
